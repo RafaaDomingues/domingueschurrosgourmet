@@ -1,13 +1,14 @@
 header{
     background-color: #f5d7aa;
+    text-align: center
 }
 body{
     background-color: white;
 }
 footer {
     background-color: #f5d7aa;
+    text-align: center;
 }
 .logo {
-    text-align: center;
     width: 180px;
 }
