@@ -5,6 +5,10 @@ header{
 body{
     background-color: white;
 }
+main{
+    margin: 20px;
+    top: 5px;
+}
 footer {
     background-color: #f5d7aa;
     text-align: center;
