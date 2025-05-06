@@ -8,6 +8,7 @@ body{
 footer {
     background-color: #f5d7aa;
     text-align: center;
+    padding: 5px;
 }
 .logo {
     width: 130px;
