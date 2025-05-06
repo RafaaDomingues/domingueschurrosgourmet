@@ -30,12 +30,12 @@ p{
     font-family: "Noto Serif", serif;
     text-align: center;
     color: #3e2b1c;
-    width: 20px;
+    font-size: 20px;
 }
 li{
     text-align: center;
     font-family: "Figtree", sans-serif;
     margin: 10px;
-    width: 20px;
+    font-size: 20px;
 }
 
