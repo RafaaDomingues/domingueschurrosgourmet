@@ -15,6 +15,10 @@ footer {
     background-color: #f5d7aa;
     text-align: center;
 }
+div {
+    margin: 10px;
+
+}
 .logo {
     width: 130px;
 }
