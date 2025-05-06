@@ -30,6 +30,9 @@ p{
     color: #3e2b1c;
     font-size: 20px;
 }
+#final {
+    font-size: 10px;
+}
 li{
     text-align: center;
     font-family: "Figtree", sans-serif;
